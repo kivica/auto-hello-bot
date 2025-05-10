@@ -1,0 +1,11 @@
+{
+  "name": "auto-hello-bot",
+  "version": "1.0.0",
+  "description": "A minimal Node.js package for Tea Protocol testing.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "kivica",
+  "license": "MIT"
+}
